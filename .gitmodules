@@ -1,0 +1,21 @@
+[submodule "services/auth-service"]
+	path = services/auth-service
+	url = https://github.com/kasrakazemi/auth-service.git
+[submodule "services/payment-service"]
+	path = services/payment-service
+	url = https://github.com/kasrakazemi/payment-service.git
+[submodule "services/notification-service"]
+	path = services/notification-service
+	url = https://github.com/kasrakazemi/notification-service.git
+[submodule "services/hotel-service"]
+	path = services/hotel-service
+	url = https://github.com/kasrakazemi/hotel-service.git
+[submodule "services/booking-service"]
+	path = services/booking-service
+	url = https://github.com/kasrakazemi/booking-service.git
+[submodule "services/user-service"]
+	path = services/user-service
+	url = https://github.com/kasrakazemi/user-service.git
+[submodule "gateway/api-gateway"]
+	path = gateway/api-gateway
+	url = https://github.com/kasrakazemi/api-gateway.git
